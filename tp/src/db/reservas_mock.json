@@ -1,0 +1,44 @@
+[
+  {
+    "numero_reserva": "54782935",
+    "tipo_habitacion": "Premium",
+    "cantidad_huespedes": "5",
+    "fecha_entrada": "14/07/2022",
+    "fecha_salida": "21/07/2022"
+  },
+  {
+    "numero_reserva": "35876635",
+    "tipo_habitacion": "Simple",
+    "cantidad_huespedes": "1",
+    "fecha_entrada": "04/10/2022",
+    "fecha_salida": "01/11/2022"
+  },
+  {
+    "numero_reserva": "57792935",
+    "tipo_habitacion": "Suite",
+    "cantidad_huespedes": "6",
+    "fecha_entrada": "29/10/2022",
+    "fecha_salida": "21/11/2022"
+  },
+  {
+    "numero_reserva": "12894678",
+    "tipo_habitacion": "Doble",
+    "cantidad_huespedes": "2",
+    "fecha_entrada": "02/09/2022",
+    "fecha_salida": "22/09/2022"
+  },
+  {
+    "numero_reserva": "78923547",
+    "tipo_habitacion": "Simple",
+    "cantidad_huespedes": "1",
+    "fecha_entrada": "18/07/2022",
+    "fecha_salida": "30/07/2022"
+  },
+  {
+    "numero_reserva": "67892347",
+    "tipo_habitacion": "Doble",
+    "cantidad_huespedes": "2",
+    "fecha_entrada": "22/01/2023",
+    "fecha_salida": "04/02/2023"
+  }
+]

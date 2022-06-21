@@ -1,0 +1,27 @@
+[
+  {
+    "tipo": "Simple",
+    "cantidad_de_huespedes": "1",
+    "precio": "$100"
+  },
+  {
+    "tipo": "Doble",
+    "cantidad_de_huespedes": "2",
+    "precio": "$200"
+  },
+  {
+    "tipo": "Cuadruple",
+    "cantidad_de_huespedes": "4",
+    "precio": "$400"
+  },
+  {
+    "tipo": "Suite",
+    "cantidad_de_huespedes": "6",
+    "precio": "$1000"
+  },
+  {
+    "tipo": "Premium",
+    "cantidad_de_huespedes": "5",
+    "precio": "$800"
+  }
+]

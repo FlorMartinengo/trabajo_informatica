@@ -1,0 +1,22 @@
+[
+  {
+    "nombre_completo": "Agustina Ramos",
+    "edad": "21",
+    "dni": "43567894"
+  },
+  {
+    "nombre_completo": "Martin Pereira",
+    "edad": "43",
+    "dni": "23456743"
+  },
+  {
+    "nombre_completo": "Laura Gomez",
+    "edad": "67",
+    "dni": "13435671"
+  },
+  {
+    "nombre_completo": "Juan Res",
+    "edad": "19",
+    "dni": "44789194"
+  }
+]

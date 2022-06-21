@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "spa",
+    "horario": "9:00-18:00",
+    "precio": "50",
+    "disponibilidad": "SI"
+  },
+  {
+    "nombre": "pileta",
+    "horario": "11:00-20:00",
+    "precio": "gratis",
+    "disponibilidad": "SI"
+  },
+  {
+    "nombre": "restaurante",
+    "horario": "7:00-23:00",
+    "precio": "gratis",
+    "disponibilidad": "SI"
+  },
+  {
+    "nombre": "tenis",
+    "horario": "14:00-19:00",
+    "precio": "30",
+    "disponibilidad": "SI"
+  }
+]
